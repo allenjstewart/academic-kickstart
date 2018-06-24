@@ -10,31 +10,35 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Algebraic Geometry",
+    "Hodge Theory",
+    "Knot Theory",
+    "Algebraic Statistics",
+    "Algebraic Techniques in PDES",
+    "International Development",
+    "Sustainable Energy",
+    "Seismic Control"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Mathematics"
+  institution = "University of Oregon"
+  year = 2014
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "Masters in Mathematics"
+  institution = "University of Oregon"
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BA in Mathematics"
+  institution = "Humboldt State University"
   year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+AJ Stewart is an instructor of mathematics at Seattle University. His research interests include algebraic geometry, algebraic statistics, and algebraic applications to differential equations. He has volunteered for Kilowatts for Humanity and been the lead and co-lead on multiple solar energy projects in Zambia.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
